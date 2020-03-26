@@ -1,11 +1,17 @@
 var steps = [
-	['/img/flow/click-users.png', [1, 280], 'Start by choosing the database table you want to view', true],
-	['/img/flow/click-header.png', [765, 155], 'Click a column header to start building your query', true],
-	['/img/flow/click-count-by.png', [777, 257], "Let's GROUP users BY country", false],
-	['/img/flow/click-table-tab.png', [572, 202], 'You can see the results as a chart or a data table', true],
-	['/img/flow/click-share.png', [722, 149], "Let's export these results", false],
-	['/img/flow/click-google-sheets.png', [773, 266], 'Live-stream the results into Google Sheets', false],
-	['/img/flow/google-sheets.png', [54, -14], 'Back to Trevor', true],
+	['/img/flow/1-homeScreen.png', [747,81], 'We prolly wanna say some shit here', true],
+	['/img/flow/2-editBills.png', [130, 135], 'Page TWOOOOOO', true],
+	['/img/flow/3-editBillsExpandedSettings.png', [130, 135], 'TREE fiddy', false],
+	['/img/flow/4-editBills.png', [142, 257], '4 some moar', true],
+	['/img/flow/5-editBillsExpandedLevels.png', [936, 629], '5 Im out of ideas', false],
+	['/img/flow/6-homeScreen.png', [794, 81], 'just 6', false],
+	['/img/flow/7-editParts.png', [857, 608], '7', true],
+	['/img/flow/8-homeScreen.png', [767, 117], '8', false],
+	['/img/flow/9-bommerTree.png', [733, 243], '9', true],
+	['/img/flow/10-settingsScreen.png', [997, 705], '10', false],
+	['/img/flow/11-bommerTree.png', [733, 190], '11', true],
+	['/img/flow/12-exportScreen.png', [930, 705], '12', false],
+	['/img/flow/13-bommerTree.png', [100, 100], '13 holy shit it works', true],
 ];
 
 var step = 0;
